@@ -54,9 +54,9 @@
 				<key>tagsOptions</key>
 				<string>stippled_underline</string>
                     		<key>gutter</key>
-                    		<string>#00000001</string>
+                    		<string>#BD93F9</string>
                     		<key>gutterForeground</key>
-                    		<string>#00000001</string>
+                    		<string>#BD93F9</string>
 			</dict>
 		</dict>
 		<dict>
